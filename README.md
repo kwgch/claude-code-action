@@ -236,7 +236,7 @@ Perfect for automatically reviewing PRs from new team members, external contribu
 4. **Branch Management**: Creates new PRs for human authors, pushes directly for Claude's own PRs
 5. **Communication**: Posts updates at every step to keep you informed
 
-This action is built on top of [`Akira-Papa/claude-code-base-action`](https://github.com/Akira-Papa/claude-code-base-action).
+This action is built on top of [`kwgch/claude-code-base-action`](https://github.com/kwgch/claude-code-base-action).
 
 ## Capabilities and Limitations
 
